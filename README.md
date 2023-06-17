@@ -7,7 +7,7 @@
 - Johnny Ta 
 - Ben Abraham 
 
-# Data Structure Contributors:
+## Data Structure Contributors:
 
 - Alexey Ignatiev
 - Brendon Taylor
